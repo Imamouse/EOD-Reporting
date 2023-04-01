@@ -3,3 +3,5 @@ pandas
 openpyxl
 streamlit
 numpy
+requests
+streamlit_lottie
